@@ -1,5 +1,6 @@
 # SRGAN-A-small-hub
-Some relevant model codes adjusted in my learning process middle note. Including RankSRGAN; KernelGAN; and PathSRGAN.
+Some model codes I tested in my learning experience. All of them is runnable. Including RankSRGAN; KernelGAN; and PathSRGAN.
+Continuous updating...
 
  ### Experimental environments
  python 3.8, cuda 11.1 and cuDNN 8.0.4
